@@ -1,0 +1,6 @@
+{
+  "name": "Shadab Portfolio",
+  "description": "A high-performance, minimalist portfolio website for Shadab, a modern web developer, featuring custom cursor tracking, scroll reveals, clean typography, and interactive case study exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
